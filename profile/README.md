@@ -1,12 +1,12 @@
-## Hi there 👋
+# Welcome!
+We're the team behind the Skullgirls Community Cut, the Skullgirls Palette Editor, and many other Skullgirls mods and tools.
 
-<!--
+Here are a few:
+## Mods
+- [MODS_Anna-Killer](https://github.com/Back-Black-Door/MODS-Anna_Killer)
+- [MODS-Newsfeed](https://github.com/Back-Black-Door/MODS-Newsfeed)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Tools
+- [SkullGirls-Comminity-s-Cut](https://github.com/Back-Black-Door/SkullGirls-Comminity-s-Cut)
+- [SkullModCpp](https://github.com/Back-Black-Door/SkullModCpp)
+- [Templates](https://github.com/Back-Black-Door/Templates)
