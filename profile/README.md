@@ -1,5 +1,5 @@
 # Welcome!
-We're the team behind the Skullgirls Community Cut, the Skullgirls Palette Editor, and many other Skullgirls mods and tools.
+We're the team behind the [Skullgirls Community Cut](https://github.com/Back-Black-Door/SkullGirls-Comminity-s-Cut), the Skullgirls Palette Editor, and many other Skullgirls mods and tools.
 
 Here are a few:
 ## Mods
